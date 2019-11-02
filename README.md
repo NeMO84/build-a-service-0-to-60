@@ -7,6 +7,7 @@ A development process to demonstrate a full stack working knowledge. From develo
 ### Service
 Learn and apply: https://12factor.net/
 
-- [] Observability
+- [ ] Observability
 - [ ] Resiliency
 - [ ] Scalability
+- [ ] ...
