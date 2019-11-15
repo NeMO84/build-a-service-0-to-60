@@ -1,0 +1,3 @@
+[submodule "services/codenames"]
+	path = services/codenames
+	url = https://github.com/NeMO84/codenames
